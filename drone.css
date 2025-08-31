@@ -1,0 +1,55 @@
+/* DRONE */
+.drone-section {
+  display: flex;
+  flex-direction: column;
+  padding: 5rem 10rem;
+}
+
+.drone-description {
+  font-size: 2.2rem;
+  margin-bottom: 1.2rem;
+  letter-spacing: 0.2px;
+  line-height: 1.2;
+  font-weight: 500;
+  color: var(--color-gray-shade);
+}
+
+.mb-m {
+  margin-bottom: 3.2rem;
+}
+
+.mt-m {
+  margin-top: 3.2rem;
+}
+.bold {
+  text-align: center;
+}
+
+.h4 {
+  font-size: 2.2rem;
+  margin-bottom: 3.2rem;
+  margin-top: 3.2rem;
+}
+
+.h3-drone {
+  color: var(--color-gray-shade);
+  text-align: center;
+}
+
+.drone-list {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  gap: 2.2rem;
+  width: 70%;
+  margin-top: 3.2rem;
+  margin-bottom: 10rem;
+}
+
+.drone-list__item {
+  font-size: 2.4rem;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  color: var(--color-gray-shade);
+}
